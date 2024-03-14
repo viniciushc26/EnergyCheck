@@ -26,10 +26,8 @@ Orientador: Fernanda Isabel Marques Argoud da Silva
    Em suma, será um protótipo acoplado após ao o medidor de energia, que será capaz de analisar a corrente e a tensão através do cabo principal de fornecimento,  módulos de corrente e tensão serão encarregados das medições e estarão conectados ao ESP-32, o mesmo enviará os dados a um banco de dados para que seja possível que o usuário obtenha tais informações.
 
 # Cronograma
-> crie um projeto no GitHub discriminando as ações e o período em que as mesmas serão realizadas
-> coloque dentro do parênteses abaixo o link para o projeto criado
 
-Clique [aqui]() para acessar o cronograma.
+Clique [aqui](https://github.com/users/viniciushc26/projects/3) para acessar o cronograma.
 
 # Lista de materiais
 
