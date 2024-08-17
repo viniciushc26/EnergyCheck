@@ -3,7 +3,7 @@ Título: Desenvolvimento de um Aplicativo Android para Monitoramento de Consumo 
 
 Aluno(s): Vinícius Hercilio Correa
 
-Orientador: Fernanda Isabel Marques Argoud da Silva
+Orientadora: Fernanda Isabel Marques Argoud da Silva
 
 # Objetivo geral
 * Desenvolver um medidor de energia residencial para cálculo de gastos com energia elétrica no estado de SC através de um aplicativo android
