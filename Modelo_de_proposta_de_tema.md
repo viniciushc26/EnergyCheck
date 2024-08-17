@@ -6,7 +6,7 @@ Aluno(s): Vinícius Hercilio Correa
 Orientadora: Fernanda Isabel Marques Argoud da Silva
 
 # Objetivo geral
-* Desenvolver um medidor de energia residencial para cálculo de gastos com energia elétrica no estado de SC através de um aplicativo android
+* Desenvolver um medidor de energia residencial para cálculo de gastos com energia elétrica no estado de Santa Catarina através de um aplicativo android
 
 
 # Objetivos específicos
