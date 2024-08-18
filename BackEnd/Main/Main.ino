@@ -12,7 +12,7 @@
 */
 
 
- const char* usuarioEmail = "vinicius.hercilio00@gmail.com";
+ const char* usuarioEmail = "**********************";
 
 
 
@@ -29,10 +29,10 @@
 
 
 
-#define WIFI_SSID "PATRICIA"
-#define WIFI_PASSWORD "28182631"
-#define FIREBASE_HOST "https://energy-check-64-default-rtdb.firebaseio.com/"    
-#define FIREBASE_AUTH "ah7etohQYaZpkTLBPaGV6tUU4yQp24F1NDhh2vOy"   
+#define WIFI_SSID "*********"
+#define WIFI_PASSWORD "*********"
+#define FIREBASE_HOST "******************************************"    
+#define FIREBASE_AUTH "*******************************************"   
 
 #define NUM_AMOSTRAST 10  // Número de amostras para a média da tensão
 #define NUM_AMOSTRASC 10  // Número de amostras para a média da corrente
