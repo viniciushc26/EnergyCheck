@@ -1,12 +1,20 @@
-# Título do Trabalho
+# Desenvolvimento de um Aplicativo Android para Monitoramento de Consumo de Energia Elétrica Residencial
 
 ## Introdução
 
-[Apresentar o tema do trabalho.]
+No contexto atual, em que a sustentabilidade e a economia de recursos são cada vez mais importantes, o controle do consumo de energia elétrica em residências emerge como uma necessidade premente. A falta de informações em tempo real sobre o gasto energético dificulta a tomada de decisões conscientes, levando a surpresas desagradáveis na fatura mensal e ao desperdício de energia.
+
+Diante desse cenário, o projeto EnergyCheck propõe uma solução inovadora e acessível para o monitoramento e a gestão do consumo de energia elétrica em residências. Através de um aplicativo móvel intuitivo e da integração com um microcontrolador de baixo custo, o EnergyCheck permite aos usuários acompanhar em tempo real o seu consumo, estimar o valor da fatura, visualizar gráficos detalhados e receber notificações personalizadas, promovendo a conscientização e o uso eficiente da energia elétrica.
+
+Com foco nos moradores de Santa Catarina e em todos aqueles que buscam um maior controle sobre seus gastos com energia, o EnergyCheck se destaca por sua acessibilidade e praticidade, oferecendo uma ferramenta poderosa para a construção de um futuro mais sustentável e econômico.
 
 ## Revisão da literatura
 
-[Deve-se citar trabalhos relacionados ao seu problema ou da área que estão mais próximos (para casos específicos); o que estiver mais próximo do seu trabalho. Os trabalhos são citados para destacar o que já foi feito de importante e resultados obtidos sobre o problema em questão. São trabalhos que complementam ou que são utilizados para fins de comparação. Citar sempre a referência completa se estiver relacionado diretamente com o trabalho, explicar o objetivo e detalhes gerais enfatizando as diferenças com o seu trabalho Indicar os resultados que serão utilizados para comparação com o seu trabalho Destacar os pontos positivos e negativos do trabalho. Citam-se os negativos por que no seu trabalho seriam positivos.]
+[MEDIDOR DE DEMANDA DE ENERGIA ELÉTRICA RESIDENCIAL COM ACESSO REMOTO](https://repositorio.uniceub.br/jspui/bitstream/235/3857/1/Gilberto%20Jos%C3%A9%20De%20Paula%20Monografia%201_2013.pdf) : a monografia apresenta um medidor capaz de medir várias grandezas de equipamentos entre elas corrente, tensão e potência ativa,  através de sensores acoplados a um arduino, e envia-las a uma página html, podendo exclusivamente aferir um equipamento por vez, o protótipo apresentado é feito a partir do microcontrolador arduino acoplado ao sensor de corrente ACS712 , onde apresenta uma limitação de até 30 amperes, já para a tensão foi utilizado um transformador de tensão para adequação da tensão suportada pelo arduino. O projeto em si é parecido com a ideia deste projeto, porém, busca-se a medição da rede elétrica toda, pelo padrão CELESC a entrada é de 50A, sendo assim, a medição será feita de forma diferente ao apresentado no protótipo.
+
+[ESTUDO DE UM MEDIDOR DE CORRENTE CONECTADO COM UMA PLATAFORMA IOT](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/1749/Hermeson_TCC_Final.pdf?sequence=1&isAllowed=y) :  Este TCC apresenta uma ideia interessante, o mesmo armazena os dados medidos em uma plataforma chamada "ThingSpeak", e a pessoa responsável pelas aferições pode conferir de forma simples e rápida dados como: Fatura, Consumo por dia, semana e mês, em termos de comparação seria um protótipo parecido, porém limitado a aferição de um equipamento por vez.
+
+[Iot based Smart Electricity Energy meter using ESP32 & blynk application](https://www.youtube.com/watch?v=FVGvR9qlEc8&t=6s): Este vídeo relata sobre um medidor de energia que envia os dados a um aplicativo criado pela plataforma blynk, uma plataforma interessante para criação de aplicativos, porém as referências encontradas batem sempre na mesma tecla, são medidos em equipamentos indivuais e não o consumo de uma residencia em valores monetários.
 
 ## Materiais e Métodos
 
