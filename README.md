@@ -28,4 +28,4 @@ O EnergyCheck apresenta relevância acadêmica e social ao abordar um problema c
 
 **Conclusão:**
 
-O projeto **EnergyCheck** demonstra a aplicação prática de conceitos e tecnologias estudadas no curso de Engenhar Elétrica no IFSC - Itajaí, integrando o desenvolvimento de hardware e software para criar uma solução inovadora e acessível. A implementação bem-sucedida do aplicativo resultará em uma ferramenta valiosa para o controle e a gestão do consumo de energia elétrica em residências, com potencial para impactar positivamente o meio ambiente e a economia dos usuários.
+O projeto **EnergyCheck** demonstra a aplicação prática de conceitos e tecnologias estudadas no curso de Engenharia Elétrica no IFSC - Itajaí, integrando o desenvolvimento de hardware e software para criar uma solução inovadora e acessível. A implementação bem-sucedida do aplicativo resultará em uma ferramenta valiosa para o controle e a gestão do consumo de energia elétrica em residências, com potencial para impactar positivamente o meio ambiente e a economia dos usuários.
